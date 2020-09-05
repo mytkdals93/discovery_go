@@ -1,4 +1,4 @@
-package chapter1
+package c1
 
 func facItr1(n int) int {
 	result := 1
